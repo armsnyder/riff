@@ -1,2 +1,2 @@
-# riff
-Visualizing musical incluence
+# Riff
+Visualizing musical influence
